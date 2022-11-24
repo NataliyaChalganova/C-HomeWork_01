@@ -1,0 +1,15 @@
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\bin\Debug\net6.0\Task6.exe
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\bin\Debug\net6.0\Task6.deps.json
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\bin\Debug\net6.0\Task6.dll
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\bin\Debug\net6.0\Task6.pdb
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\obj\Debug\net6.0\Task6.dll
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\obj\Debug\net6.0\refint\Task6.dll
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\obj\Debug\net6.0\Task6.pdb
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+S:\Data_Science\Practic\Repo\C#_Homework_Seminar1\Task6\obj\Debug\net6.0\ref\Task6.dll
